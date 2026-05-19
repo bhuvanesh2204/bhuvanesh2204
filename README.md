@@ -49,7 +49,7 @@
 ## 🌐 Connect With Me
 
 - 📧 **Email:** [bhuvaneshsonar3@gmail.com](mailto:bhuvaneshsonar3@gmail.com)
-- 🔗 **LinkedIn:** [www.linkedin.com/in/bhuvanesh-sonar-4b5160318](www.linkedin.com/in/bhuvanesh-sonar-4b5160318)
+- 🔗 **LinkedIn:** [www.linkedin.com/in/bhuvanesh-sonar-4b5160318](http://www.linkedin.com/in/bhuvanesh-sonar-4b5160318)
 - 🐙 **GitHub:** [github.com/bhuvanesh2204](https://github.com/bhuvanesh2204)
 
 ---
